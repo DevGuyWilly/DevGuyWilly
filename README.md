@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is Wilson Dagah Dachomo</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h3 align="center">A passionate Sofftware Developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devguywilly&label=Profile%20views&color=0e75b6&style=flat" alt="devguywilly" /> </p>
 
@@ -7,11 +7,7 @@
 
 - 🔭 I’m currently working on HeyoChat😎 **HeyoChat**
 
-- 🌱 I’m currently learning **React, Flutter and Swift**
-
 - 👨‍💻 All of my projects are available at [https://github.com/DevGuyWilly](https://github.com/DevGuyWilly)
-
-- 💬 Ask me about **React, Typescript, Node Js, Mongo DB**
 
 - 📫 How to reach me **https://www.linkedin.com/in/wilson-dachomo-dagah-482b38244/**
 
