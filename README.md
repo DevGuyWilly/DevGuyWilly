@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/dev_guy_willy" target="blank"><img src="https://img.shields.io/twitter/follow/dev_guy_willy?logo=twitter&style=for-the-badge" alt="dev_guy_willy" /></a> </p>
 
-- 🔭 I’m currently working on HeyoChat😎 **HeyoChat**
+- 🔭 I’m currently working on HeyoChat😎 and BetArb **HeyoChat**
 
 - 👨‍💻 All of my projects are available at [https://github.com/DevGuyWilly](https://github.com/DevGuyWilly)
 
