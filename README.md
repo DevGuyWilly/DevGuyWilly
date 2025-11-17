@@ -56,20 +56,6 @@ I'm a passionate Software Engineer specializing in building intelligent, scalabl
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![Wilson's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGuyWilly&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGuyWilly&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=DevGuyWilly&theme=radical&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
-
-</div>
-
----
-
 ## 🔥 Featured Projects
 
 ### [PersonaFinSight (e-finsight)](https://github.com/YOUR_USERNAME/e-finsight)
@@ -137,18 +123,6 @@ An AI-powered financial insights platform that analyzes banking transactions usi
 - [Add more fun facts about yourself]
 
 ---
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevGuyWilly&theme=redical&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)
-
-</div>
-
----
-
-<div align="center">
   
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DevGuyWilly.DevGuyWilly&left_color=58A6FF&right_color=58A6FF)
 
